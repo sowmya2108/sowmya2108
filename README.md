@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @sowmya2108
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sowmya2108/sowmya2108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀i'm interested in Wed development 
+-🌱i'm currently learning full stack web development
+-📭 How to reach me..
+shilamkotisowmya21@gmail.com
